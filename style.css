@@ -1,0 +1,20 @@
+.div-one{
+    height: 200px;
+    width: 300px;
+    border: 1px solid red;
+}
+.class-one{
+    height: 200px;
+    width: 200px;
+    border-radius: 150px;
+    border: 1px solid blue; 
+}
+.class-two{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50px;
+}
+.new-one{ background-color: black;
+
+}
